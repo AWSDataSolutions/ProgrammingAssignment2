@@ -3,7 +3,6 @@
 ##This assignment consists of a pair of functions that cache the inverse of 
 ##a matrix.
 
-## Write a short comment describing this function
 ## I Tested the following
 ##      [,1] [,2]
 ##[1,]   4    7
@@ -48,7 +47,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 ## cacheSolve: This function computes the inverse of the special 
 ## "matrix" returned by makeCacheMatrix above. 
 ## If the inverse has already been calculated (and the matrix has not changed), 
